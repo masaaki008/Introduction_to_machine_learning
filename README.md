@@ -1,1 +1,2 @@
 # Introduction_to_machine_learning
+Pythonではじめる機械学習勉強用
